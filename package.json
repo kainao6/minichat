@@ -1,0 +1,20 @@
+{
+  "name": "app-ws-chat",
+  "version": "1.0.0",
+  "description": "Utilisation d'express et ws pour la réalisation d'un Chat web multi-utilisateurs",
+  "main": "serveur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.12.12",
+    "@types/ws": "^8.5.10"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.17.0"
+  }
+}
